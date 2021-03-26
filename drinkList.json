@@ -6,19 +6,19 @@
             "menuTitle": "Sjora",
             "menuDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "menuPrice": 2.5,
-            "menuImageUrl": ""
+            "menuImageUrl": "https://github.com/john-hexis/ApiPlaceHolder/blob/main/images/drinks/Sjora.jpeg"
         },
         {
             "menuTitle": "Coke",
             "menuDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "menuPrice": 1.0,
-            "menuImageUrl": ""
+            "menuImageUrl": "https://github.com/john-hexis/ApiPlaceHolder/blob/main/images/drinks/Coke.jpg"
         },
         {
             "menuTitle": "Ice Tea",
             "menuDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "menuPrice": 1.2,
-            "menuImageUrl": ""
+            "menuImageUrl": "https://github.com/john-hexis/ApiPlaceHolder/blob/main/images/drinks/IceTea.jpg"
         }
     ]
 }

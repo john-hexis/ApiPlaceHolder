@@ -6,19 +6,19 @@
             "menuTitle": "Makizushi",
             "menuDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "menuPrice": 6.5,
-            "menuImageUrl": ""
+            "menuImageUrl": "https://github.com/john-hexis/ApiPlaceHolder/blob/main/images/sushi/Makizushi.jpg"
         },
         {
             "menuTitle": "Nigiri",
             "menuDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "menuPrice": 8.0,
-            "menuImageUrl": ""
+            "menuImageUrl": "https://github.com/john-hexis/ApiPlaceHolder/blob/main/images/sushi/SalmonNigiriSushi.jpg"
         },
         {
             "menuTitle": "Gunkan Maki",
             "menuDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "menuPrice": 7.5,
-            "menuImageUrl": ""
+            "menuImageUrl": "https://github.com/john-hexis/ApiPlaceHolder/blob/main/images/sushi/GunkanMakiSushi.jpg"
         }
     ]
 }
