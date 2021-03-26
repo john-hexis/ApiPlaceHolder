@@ -1,0 +1,24 @@
+{
+    "status": 200,
+    "message": "",
+    "data": [
+        {
+            "menuTitle": "Makizushi",
+            "menuDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "menuPrice": 6.5,
+            "menuImageUrl": ""
+        },
+        {
+            "menuTitle": "Nigiri",
+            "menuDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "menuPrice": 8.0,
+            "menuImageUrl": ""
+        },
+        {
+            "menuTitle": "Gunkan Maki",
+            "menuDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "menuPrice": 7.5,
+            "menuImageUrl": ""
+        }
+    ]
+}

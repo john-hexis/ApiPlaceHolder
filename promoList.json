@@ -1,0 +1,18 @@
+{
+    "status": 200,
+    "message": "",
+    "data": [
+        {
+            "promoTitle": "Monday Deals",
+            "promoImageUrl": ""
+        },
+        {
+            "promoTitle": "Saturday Deals",
+            "promoImageUrl": ""
+        },
+        {
+            "promoTitle": "Sunday Deals",
+            "promoImageUrl": ""
+        }
+    ]
+}
